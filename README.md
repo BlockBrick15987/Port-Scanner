@@ -18,4 +18,4 @@ It is easy to understand and clean. If you don´t see some things put the window
 # Download
 Option 1: Download the .py file directly from here
 Option 2: Go do Code and Download as a .zip
-Option 3: Download only the .exe file
+Option 3: Download only the .exe file(Might need to execute as admin or disable your anti virus shortly)
