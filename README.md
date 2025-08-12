@@ -14,3 +14,8 @@ Range: Scannes a Range of Ports(Start Port in Start Port and End Port in End Por
 Under that is the Start Scan button to start the scan
 Then you see the results and under that is a consel showing if everything is running fine.
 It is easy to understand and clean. If you don´t see some things put the window in fullscreen and resice the little one
+
+# Download
+Option 1: Download the .py file directly from here
+Option 2: Go do Code and Download as a .zip
+Option 3: Download only the .exe file
