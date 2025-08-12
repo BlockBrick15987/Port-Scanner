@@ -1,23 +1,33 @@
-# Port-Scanner
-A simple self made port scanner with Socket Threads and Dearpygui
+Port-Scanner
 
-# Liberys
-1: Install Python
-2: Install Dearpygui(The other 2 are already in Python)
+A simple self-made port scanner using Socket Threads and DearPyGui.
+Libraries
 
-# Guide
-When you open the Scanner you see a few things.
-First thing is the Ip Address you want to scan. On default it is on your ip(127.0.0.1)
-Under that is the Mode. 
-Single Port: Scanns one Port(the one you put in the Single Port field)
-Range: Scannes a Range of Ports(Start Port in Start Port and End Port in End Port)
-Under that is the Start Scan button to start the scan
-Then you see the results and under that is a consel showing if everything is running fine.
-It is easy to understand and clean. If you don´t see some things put the window in fullscreen and resice the little one
+    Python (already installed)
 
-# Download
-Option 1: Download the .py file directly from here
+    DearPyGui (install via pip install dearpygui)
 
-Option 2: Go do Code and Download as a .zip
+Guide
 
-Option 3: Download only the .exe file(Might need to execute as admin or disable your anti virus shortly)
+When you open the scanner, you will see a few inputs:
+
+    IP Address: The target IP to scan (default is your localhost 127.0.0.1).
+
+    Mode:
+
+        Single Port: Scans the port you specify in the "Single Port" field.
+
+        Range: Scans a range of ports, defined by "Start Port" and "End Port".
+
+    Start Scan button to start scanning.
+
+Below that, you see the scan results and a console area that shows if everything is running smoothly.
+
+The interface is simple and clean. If some elements don’t appear correctly, try resizing the window or switching to fullscreen.
+Download
+
+    Option 1: Download the .py file directly from [here].
+
+    Option 2: Download the entire project as a .zip file from the code repository.
+
+    Option 3: Download the .exe file (may require running as admin or temporarily disabling your antivirus).
